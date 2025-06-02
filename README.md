@@ -1,4 +1,4 @@
-# ![Umer Khan](https://via.placeholder.com/1000x150/000000/FFFFFF?text=Umer+Khan)
+# Umer Khan
 
 **Computer Science**  
 *DePaul University | Chicago, IL*
